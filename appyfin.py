@@ -92,6 +92,7 @@ imageXRP = Image.open(urlopen('https://s2.coinmarketcap.com/static/img/coins/64x
 st.image(imageXRP)
 st.table(XRP)
 st.bar_chart(XRPHIS.Close)
+
 #####################################################################################################
 
 #####################################################################################################

@@ -42,6 +42,8 @@ candles = exchange.fetch_ohlcv(symbol, timeframe=timeframe, limit= limit)
 dfBTH = pd.DataFrame(candles, columns=['timestamp', 'open', 'high', 'low', 'close', 'volume'])
 print(dfBTH) 
 
+
+
 #streamlit
 st.write("Bitcoin ($)")
 imageBTC = Image.open(urlopen('https://s2.coinmarketcap.com/static/img/coins/64x64/1.png'))
