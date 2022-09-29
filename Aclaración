@@ -1,0 +1,8 @@
+* La idea fué elaborar un Dashboard en Streamlit, el script appccxt.py es el que obtiene datos de la api de FTX, pero no pude solucionar el 
+  error un error en el grafico.
+  
+* El script appyfin.py si graafica correctamente, pero obtiene los datos de Yahoo Finance. el cual será utilizado en la presentación de la demo.
+
+* No consegui terminar la calculadora y la varianza.
+
+* Intenté hacer el deploy pero fue sin exito, en la presentación.
